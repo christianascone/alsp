@@ -24,7 +24,7 @@
     "eslint-plugin-import": "^2.8.0"
   },
   "bin": {
-    "alsp": "bin/alsp"
+    "alsp": "index.js"
   },
   "engines": {
     "node": ">=7.6.0"
