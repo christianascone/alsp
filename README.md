@@ -3,21 +3,20 @@
 
 <!--- TODO: Add badges
 [![Code Climate](https://codeclimate.com/github/christianascone/alsp/badges/gpa.svg)](https://codeclimate.com/github/christianascone/alsp)
+--->
 [![dependencies Status](https://david-dm.org/christianascone/alsp/status.svg)](https://david-dm.org/christianascone/alsp)
 [![devDependency Status](https://david-dm.org/christianascone/alsp/dev-status.svg)](https://david-dm.org/christianascone/alsp#info=devDependencies)
 [![npm](https://img.shields.io/npm/dt/alsp.svg)](https://www.npmjs.com/package/alsp)
 [![npm version](https://badge.fury.io/js/alsp.svg)](https://badge.fury.io/js/alsp)
---->
 
 `alsp` is an active proxy that redirect a call from localhost to given endpoint.
 This project is **strongly** inspired by a [rodrigogs](https://github.com/rodrigogs)' repository (Thank you).
 
 
-<!---
 ### Install
 **node 7.6 > required**
 > `$ npm install alsp -g`
---->
+
 
 ### Usage
 > `$ alsp --help`
