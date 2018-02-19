@@ -9,7 +9,7 @@
 [![npm](https://img.shields.io/npm/dt/alsp.svg)](https://www.npmjs.com/package/alsp)
 [![npm version](https://badge.fury.io/js/alsp.svg)](https://badge.fury.io/js/alsp)
 
-`alsp` is an active proxy that redirect a call from localhost to given endpoint.
+`alsp` is an active proxy that redirects a call from localhost to given endpoint.
 This project is **strongly** inspired by a [rodrigogs](https://github.com/rodrigogs)' repository (Thank you).
 
 
@@ -35,8 +35,8 @@ This project is **strongly** inspired by a [rodrigogs](https://github.com/rodrig
 > `$ alsp`
 ```
 Starting server...
-Listening on http://0.0.0.0:8997 <- Use this url to be redirected to given endpoint
 Redirecting requests to http://localhost
+Listening on http://0.0.0.0:8997 <- Use this url to be redirected to given endpoint
 ```
 
 
