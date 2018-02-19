@@ -1,9 +1,7 @@
 
 # alsp - Active Local Server Proxy
 
-<!--- TODO: Add badges
-[![Code Climate](https://codeclimate.com/github/christianascone/alsp/badges/gpa.svg)](https://codeclimate.com/github/christianascone/alsp)
---->
+[![Maintainability](https://api.codeclimate.com/v1/badges/c7d5f7e0335906e314bc/maintainability)](https://codeclimate.com/github/christianascone/alsp/maintainability)
 [![dependencies Status](https://david-dm.org/christianascone/alsp/status.svg)](https://david-dm.org/christianascone/alsp)
 [![devDependency Status](https://david-dm.org/christianascone/alsp/dev-status.svg)](https://david-dm.org/christianascone/alsp#info=devDependencies)
 [![npm](https://img.shields.io/npm/dt/alsp.svg)](https://www.npmjs.com/package/alsp)
