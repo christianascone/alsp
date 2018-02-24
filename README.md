@@ -45,7 +45,10 @@ Citing the original author:
 
 ### Note
 
-In case of problems, try using [ngrok](https://ngrok.com/download). Download it and then run:
+In case of problems, try using [ngrok](https://ngrok.com/download). Download it or install with:
+> ```$ npm install ngrok -g```
+
+and then run:
 > ```$ ngrok http 8997```
 
 You will see the following:
